@@ -1,0 +1,11 @@
+Relatório de Classificação - Naive Bayes
+              precision    recall  f1-score   support
+
+  Não Gostei       0.53      0.80      0.64   3382120
+      Gostei       0.59      0.29      0.39   3384313
+
+    accuracy                           0.55   6766433
+   macro avg       0.56      0.55      0.51   6766433
+weighted avg       0.56      0.55      0.51   6766433
+
+Acurácia: 0.55
