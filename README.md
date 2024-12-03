@@ -1,14 +1,12 @@
 
 ---
 
-# ⚠️ **Importante**
+### _⚠️ **Importante**_
 
-**Para ver o relatório completo sobre a análise do treinamento dos modelos, acesse o arquivo [RELATORIO_FINAL.md](./RELATORIO_FINAL.md).**  
-Eu tambem inclui um documento de word com o mesmo conteudo ao entregar a tarefa, porém a legibilidade é bem melhor via GitHub.
+_**Para ver o relatório completo sobre a análise do treinamento dos modelos, acesse o arquivo [RELATORIO_FINAL.md](./RELATORIO_FINAL.md).**  
+Eu tambem inclui um documento de word com o mesmo conteudo ao entregar a tarefa, porém a legibilidade é bem melhor via GitHub._
 
 ---
-
-Esse estilo chama mais atenção logo no início do README, destacando o aviso importante para o professor.
 
 # Projeto de Análise de Dados de Filmes
 
