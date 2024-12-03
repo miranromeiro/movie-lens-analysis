@@ -1,7 +1,7 @@
 
 ---
 
-### _⚠️ **Importante**_
+### _⚠️ **Importante - Professor Thiago**_
 
 _**Para ver o relatório completo sobre a análise do treinamento dos modelos, acesse o arquivo [RELATORIO_FINAL.md](./RELATORIO_FINAL.md).**  
 Eu tambem inclui um documento de word com o mesmo conteudo ao entregar a tarefa, porém a legibilidade é bem melhor via GitHub._
