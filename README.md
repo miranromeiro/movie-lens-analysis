@@ -1,3 +1,15 @@
+
+---
+
+# ⚠️ **Importante**
+
+**Para ver o relatório completo sobre a análise do treinamento dos modelos, acesse o arquivo [RELATORIO_FINAL.md](./RELATORIO_FINAL.md).**  
+Este relatório contém uma visão detalhada dos resultados, comparativo entre os modelos e sugestões de melhorias. Eu tambem inclui um documento de word com o mesmo conteudo ao entregar a tarefa, porém a legibilidade é bem melhor via GitHub.
+
+---
+
+Esse estilo chama mais atenção logo no início do README, destacando o aviso importante para o professor.
+
 # Projeto de Análise de Dados de Filmes
 
 Este projeto realiza a análise e classificação de filmes com base nas avaliações dos usuários utilizando modelos de IA. Os modelos treinados incluem **Árvore de Decisão**, **Naive Bayes** e **Rede Neural**. Abaixo, você encontrará as instruções para executar o projeto na sua máquina.
