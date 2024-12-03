@@ -4,7 +4,7 @@
 # ⚠️ **Importante**
 
 **Para ver o relatório completo sobre a análise do treinamento dos modelos, acesse o arquivo [RELATORIO_FINAL.md](./RELATORIO_FINAL.md).**  
-Este relatório contém uma visão detalhada dos resultados, comparativo entre os modelos e sugestões de melhorias. Eu tambem inclui um documento de word com o mesmo conteudo ao entregar a tarefa, porém a legibilidade é bem melhor via GitHub.
+Eu tambem inclui um documento de word com o mesmo conteudo ao entregar a tarefa, porém a legibilidade é bem melhor via GitHub.
 
 ---
 
