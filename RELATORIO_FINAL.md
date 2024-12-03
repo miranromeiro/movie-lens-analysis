@@ -49,7 +49,7 @@ Acurácia: 0.55
 ```
 
 **Insights:**
-- A **acurácia** do modelo é de 55%, levemente superior ao modelo de Árvore de Decisão.
+- A **acurácia** do modelo é de **55%**, levemente superior ao modelo de Árvore de Decisão.
 - O modelo tem um desempenho muito bom para a classe "Não Gostei", com uma recall de 0.80, mas a precisão e recall para a classe "Gostei" são significativamente mais baixos, o que sugere que o modelo tem dificuldades em classificar corretamente os filmes como "Gostei".
 - **F1-Score** para a classe "Não Gostei" (0.64) é bem mais alto do que para a classe "Gostei" (0.39), refletindo um desbalanceamento na capacidade de previsão entre as duas classes.
 
@@ -74,7 +74,7 @@ weighted avg       0.59      0.59      0.59   6766433
 ```
 
 **Insights:**
-- O modelo de **rede neural** apresentou uma melhora em relação à Árvore de Decisão, alcançando uma acurácia de 59%. Embora o desempenho ainda possa ser otimizado, a flexibilidade do modelo sugere que ajustes adicionais nas camadas e nos hiperparâmetros podem trazer ganhos significativos
+- O modelo de **rede neural** apresentou uma melhora em relação à Árvore de Decisão, alcançando uma **acurácia de 59%**. Embora o desempenho ainda possa ser otimizado, a flexibilidade do modelo sugere que ajustes adicionais nas camadas e nos hiperparâmetros podem trazer ganhos significativos
 - A **precisão** e **recall** são muito próximas entre as duas classes, mostrando um equilíbrio no desempenho do modelo.
 - O modelo possui um desempenho razoável, mas poderia ser melhorado com mais camadas e neurônios.
 
