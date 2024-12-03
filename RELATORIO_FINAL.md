@@ -74,7 +74,7 @@ weighted avg       0.59      0.59      0.59   6766433
 ```
 
 **Insights:**
-- O modelo de **rede neural** obteve uma **acurácia de 53%**, semelhante à Árvore de Decisão, mas não apresentou uma melhoria significativa.
+- O modelo de **rede neural** apresentou uma melhora em relação à Árvore de Decisão, alcançando uma acurácia de 59%. Embora o desempenho ainda possa ser otimizado, a flexibilidade do modelo sugere que ajustes adicionais nas camadas e nos hiperparâmetros podem trazer ganhos significativos
 - A **precisão** e **recall** são muito próximas entre as duas classes, mostrando um equilíbrio no desempenho do modelo.
 - O modelo possui um desempenho razoável, mas poderia ser melhorado com mais camadas e neurônios.
 
