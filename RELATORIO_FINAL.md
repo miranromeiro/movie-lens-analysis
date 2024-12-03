@@ -65,12 +65,12 @@ A **Rede Neural** foi construída usando a Keras API, com camadas densas e ativa
 Relatório de Classificação - Rede Neural
               precision    recall  f1-score   support
 
-    Não Gostei       0.53      0.51      0.52   3382120
-    Gostei           0.54      0.56      0.55   3384313
+    Não Gostei       0.60      0.58      0.59   3382120
+    Gostei           0.59      0.61      0.60   3384313
 
-    accuracy                           0.53   6766433
-   macro avg       0.53      0.53      0.53   6766433
-weighted avg       0.53      0.53      0.53   6766433
+    accuracy                           0.59   6766433
+   macro avg       0.59      0.59      0.59   6766433
+weighted avg       0.59      0.59      0.59   6766433
 ```
 
 **Insights:**
@@ -86,12 +86,12 @@ weighted avg       0.53      0.53      0.53   6766433
 |--------------------|----------|--------------|--------------|
 | **Árvore de Decisão**  | 53%      | 0.51         | 0.56         |
 | **Naive Bayes**        | 55%      | 0.64         | 0.39         |
-| **Rede Neural**        | 53%      | 0.52         | 0.55         |
+| **Rede Neural**        | 59%      | 0.59         | 0.60         |
 
 ### **Discussão:**
 - **Naive Bayes** teve a melhor acurácia, mas sua performance foi desbalanceada, com a classe "Gostei" sendo mais difícil de prever. Este modelo teve um bom desempenho para a classe "Não Gostei", mas sua utilidade é limitada pela baixa precisão na classificação de filmes "Gostei".
 - **Árvore de Decisão** mostrou-se equilibrada, mas com precisão e recall similares entre as classes, o que reflete uma distribuição mais balanceada dos dados.
-- **Rede Neural** não apresentou grandes melhorias, com desempenho semelhante à Árvore de Decisão. No entanto, sua flexibilidade pode permitir melhorias com mais ajustes nas camadas e nos hiperparâmetros.
+- **Rede Neural** apresentou uma melhora em relação à Árvore de Decisão, alcançando uma acurácia de 59%. Embora o desempenho ainda possa ser otimizado, a flexibilidade do modelo sugere que ajustes adicionais nas camadas e nos hiperparâmetros podem trazer ganhos significativos.
 
 ### **Possíveis melhorias:**
 - Para o **Naive Bayes**, seria interessante explorar outras representações dos dados, talvez com mais características para reduzir a dependência de uma única variável (como "genres").
